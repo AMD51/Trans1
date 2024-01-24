@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,9 +13,14 @@
 		81FE21E62B547FCF005EB68E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81FE21E42B547FCF005EB68E /* Main.storyboard */; };
 		81FE21E82B547FD0005EB68E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81FE21E72B547FD0005EB68E /* Assets.xcassets */; };
 		81FE21EB2B547FD0005EB68E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81FE21E92B547FD0005EB68E /* LaunchScreen.storyboard */; };
+		81FE21F42B547FE0005EB68E /* GoogleGenerativeAI in Frameworks */ = {isa = PBXBuildFile; productRef = 81FE21F32B547FE0005EB68E /* GoogleGenerativeAI */; };
+		81FE21F62B5480A1005EB68E /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE21F52B5480A1005EB68E /* APIKey.swift */; };
+		81FE21F82B5480DE005EB68E /* GenerativeAI-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81FE21F72B5480DE005EB68E /* GenerativeAI-Info.plist */; };
+		C18F27226DC925C751E61444 /* Pods_NewGemini.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E0C48C3A1637AF91AF60AA04 /* Pods_NewGemini.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		029EFB39EBC4709540CBD4D9 /* Pods-NewGemini.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewGemini.release.xcconfig"; path = "Target Support Files/Pods-NewGemini/Pods-NewGemini.release.xcconfig"; sourceTree = "<group>"; };
 		81FE21DB2B547FCF005EB68E /* NewGemini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewGemini.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81FE21DE2B547FCF005EB68E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81FE21E02B547FCF005EB68E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +29,10 @@
 		81FE21E72B547FD0005EB68E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81FE21EA2B547FD0005EB68E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81FE21EC2B547FD0005EB68E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81FE21F52B5480A1005EB68E /* APIKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
+		81FE21F72B5480DE005EB68E /* GenerativeAI-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GenerativeAI-Info.plist"; sourceTree = "<group>"; };
+		E0C48C3A1637AF91AF60AA04 /* Pods_NewGemini.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NewGemini.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB41038E4FCA7F813FE79EAC /* Pods-NewGemini.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewGemini.debug.xcconfig"; path = "Target Support Files/Pods-NewGemini/Pods-NewGemini.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +40,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81FE21F42B547FE0005EB68E /* GoogleGenerativeAI in Frameworks */,
+				C18F27226DC925C751E61444 /* Pods_NewGemini.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0E7CC3E96EA20073B9B19E36 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E0C48C3A1637AF91AF60AA04 /* Pods_NewGemini.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		81FE21D22B547FCF005EB68E = {
 			isa = PBXGroup;
 			children = (
 				81FE21DD2B547FCF005EB68E /* NewGemini */,
 				81FE21DC2B547FCF005EB68E /* Products */,
+				C0B7442E339A5537DAE24B6F /* Pods */,
+				0E7CC3E96EA20073B9B19E36 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,8 +84,20 @@
 				81FE21E72B547FD0005EB68E /* Assets.xcassets */,
 				81FE21E92B547FD0005EB68E /* LaunchScreen.storyboard */,
 				81FE21EC2B547FD0005EB68E /* Info.plist */,
+				81FE21F52B5480A1005EB68E /* APIKey.swift */,
+				81FE21F72B5480DE005EB68E /* GenerativeAI-Info.plist */,
 			);
 			path = NewGemini;
+			sourceTree = "<group>";
+		};
+		C0B7442E339A5537DAE24B6F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FB41038E4FCA7F813FE79EAC /* Pods-NewGemini.debug.xcconfig */,
+				029EFB39EBC4709540CBD4D9 /* Pods-NewGemini.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,15 +107,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 81FE21EF2B547FD0005EB68E /* Build configuration list for PBXNativeTarget "NewGemini" */;
 			buildPhases = (
+				02410D6562D176EA4143600C /* [CP] Check Pods Manifest.lock */,
 				81FE21D72B547FCF005EB68E /* Sources */,
 				81FE21D82B547FCF005EB68E /* Frameworks */,
 				81FE21D92B547FCF005EB68E /* Resources */,
+				F4819B2707D7513959EAED59 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = NewGemini;
+			packageProductDependencies = (
+				81FE21F32B547FE0005EB68E /* GoogleGenerativeAI */,
+			);
 			productName = NewGemini;
 			productReference = 81FE21DB2B547FCF005EB68E /* NewGemini.app */;
 			productType = "com.apple.product-type.application";
@@ -103,7 +141,7 @@
 				};
 			};
 			buildConfigurationList = 81FE21D62B547FCF005EB68E /* Build configuration list for PBXProject "NewGemini" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -111,6 +149,9 @@
 				Base,
 			);
 			mainGroup = 81FE21D22B547FCF005EB68E;
+			packageReferences = (
+				81FE21F22B547FE0005EB68E /* XCRemoteSwiftPackageReference "generative-ai-swift" */,
+			);
 			productRefGroup = 81FE21DC2B547FCF005EB68E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,11 +168,54 @@
 			files = (
 				81FE21EB2B547FD0005EB68E /* LaunchScreen.storyboard in Resources */,
 				81FE21E82B547FD0005EB68E /* Assets.xcassets in Resources */,
+				81FE21F82B5480DE005EB68E /* GenerativeAI-Info.plist in Resources */,
 				81FE21E62B547FCF005EB68E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		02410D6562D176EA4143600C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NewGemini-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F4819B2707D7513959EAED59 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NewGemini/Pods-NewGemini-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NewGemini/Pods-NewGemini-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NewGemini/Pods-NewGemini-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		81FE21D72B547FCF005EB68E /* Sources */ = {
@@ -140,6 +224,7 @@
 			files = (
 				81FE21E32B547FCF005EB68E /* ViewController.swift in Sources */,
 				81FE21DF2B547FCF005EB68E /* AppDelegate.swift in Sources */,
+				81FE21F62B5480A1005EB68E /* APIKey.swift in Sources */,
 				81FE21E12B547FCF005EB68E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,11 +372,13 @@
 		};
 		81FE21F02B547FD0005EB68E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FB41038E4FCA7F813FE79EAC /* Pods-NewGemini.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DFCX836WTR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NewGemini/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -299,6 +386,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -314,11 +402,13 @@
 		};
 		81FE21F12B547FD0005EB68E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 029EFB39EBC4709540CBD4D9 /* Pods-NewGemini.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DFCX836WTR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NewGemini/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -326,6 +416,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -361,6 +452,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		81FE21F22B547FE0005EB68E /* XCRemoteSwiftPackageReference "generative-ai-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google/generative-ai-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.4.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		81FE21F32B547FE0005EB68E /* GoogleGenerativeAI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 81FE21F22B547FE0005EB68E /* XCRemoteSwiftPackageReference "generative-ai-swift" */;
+			productName = GoogleGenerativeAI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 81FE21D32B547FCF005EB68E /* Project object */;
 }

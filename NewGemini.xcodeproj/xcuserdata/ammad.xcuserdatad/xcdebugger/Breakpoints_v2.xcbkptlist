@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2185C79F-36DF-435B-A6BC-EA1EFBA3215E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2AAF9F0-AF1B-44A2-944C-B02217336DFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "abc()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2AAF9F0-AF1B-44A2-944C-B02217336DFF - 341ead0038c02118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "A2AAF9F0-AF1B-44A2-944C-B02217336DFF - 3d6c6cab7d25f119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "A2AAF9F0-AF1B-44A2-944C-B02217336DFF - 341ead0038c02156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+               <Location
+                  uuid = "A2AAF9F0-AF1B-44A2-944C-B02217336DFF - 3d6c6cab7d25f157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F59DAB7-B377-4DB3-93A3-A61D5362249E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "abc2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F59DAB7-B377-4DB3-93A3-A61D5362249E - 6fe4e84062dabae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+               <Location
+                  uuid = "1F59DAB7-B377-4DB3-93A3-A61D5362249E - bc9d99c9476a4be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "1F59DAB7-B377-4DB3-93A3-A61D5362249E - 6fe4e84062dabac0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "1F59DAB7-B377-4DB3-93A3-A61D5362249E - bc9d99c9476a4bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A2281DF-47CD-4D53-8A8E-3D4A74C1C73C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "abc2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A2281DF-47CD-4D53-8A8E-3D4A74C1C73C - 857b8557bd7d598c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "225"
+                  endingLineNumber = "225"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "2A2281DF-47CD-4D53-8A8E-3D4A74C1C73C - 857b8557bd7d598c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "225"
+                  endingLineNumber = "225"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FF07430-4256-4FCF-9D46-D2E2B760BEF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "abc2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FF07430-4256-4FCF-9D46-D2E2B760BEF5 - 6fe4e84062dabb21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "2FF07430-4256-4FCF-9D46-D2E2B760BEF5 - bc9d99c9476a4a22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "2FF07430-4256-4FCF-9D46-D2E2B760BEF5 - 6fe4e84062dabb21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "2FF07430-4256-4FCF-9D46-D2E2B760BEF5 - bc9d99c9476a4a22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ECC3A79-1351-44DB-9BC1-AFC5CF1E79EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "abc2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8ECC3A79-1351-44DB-9BC1-AFC5CF1E79EC - 6fe4e84062dabae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+               <Location
+                  uuid = "8ECC3A79-1351-44DB-9BC1-AFC5CF1E79EC - bc9d99c9476a4be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "8ECC3A79-1351-44DB-9BC1-AFC5CF1E79EC - 6fe4e84062dabae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "8ECC3A79-1351-44DB-9BC1-AFC5CF1E79EC - bc9d99c9476a4be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD909A11-0BF6-4FDA-890A-37B158E95BD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "abc2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD909A11-0BF6-4FDA-890A-37B158E95BD3 - 6fe4e84062dabb4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "BD909A11-0BF6-4FDA-890A-37B158E95BD3 - bc9d99c9476a4a4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "BD909A11-0BF6-4FDA-890A-37B158E95BD3 - 857b8557bd7d594a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NewGemini.ViewController.abc2() async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B57C052A-D2F9-4C18-A616-7D644172295C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "abc4(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B57C052A-D2F9-4C18-A616-7D644172295C - 252f6e66f932eddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "B57C052A-D2F9-4C18-A616-7D644172295C - 2e40438a63ccb0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "B57C052A-D2F9-4C18-A616-7D644172295C - 252f6e66f932eddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "B57C052A-D2F9-4C18-A616-7D644172295C - 2e40438a63ccb0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39436E0A-4548-44E3-B87B-8E3809F09E56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "abc4(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39436E0A-4548-44E3-B87B-8E3809F09E56 - 252f6e66f932edfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "39436E0A-4548-44E3-B87B-8E3809F09E56 - 2e40438a63ccb0ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "39436E0A-4548-44E3-B87B-8E3809F09E56 - 252f6e66f932edfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "39436E0A-4548-44E3-B87B-8E3809F09E56 - 2e40438a63ccb0ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F86EFA3E-8E54-4477-81F2-A5F583519949"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "abc4(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F86EFA3E-8E54-4477-81F2-A5F583519949 - 252f6e66f932e278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "F86EFA3E-8E54-4477-81F2-A5F583519949 - 2e40438a63ccbf7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewGemini.ViewController.abc4(Swift.String) async -&gt; ()"
+                  moduleName = "NewGemini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ammad/Desktop/NewGemini/NewGemini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86E5E2C2-149D-44A0-ACB9-55C430786485"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewGemini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "abc4(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
